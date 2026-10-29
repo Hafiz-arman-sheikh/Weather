@@ -1,44 +1,21 @@
-# 🌤️ Weather App
+# Weather App
 
-An elegant, modern, and responsive Weather Application that provides real-time weather forecasts, temperature updates, humidity, and atmospheric conditions for cities around the world.
+A responsive weather interface built with HTML, CSS and JavaScript. It lets users search for a city and view weather details using an external weather API.
 
----
+## Features
+- Search weather by city
+- Display temperature and weather conditions
+- Show additional weather metrics when returned by the API
+- Responsive layout for desktop and mobile
 
-## 📸 Screenshots
+## Technologies
+HTML5, CSS3, JavaScript (ES6+), Fetch API, OpenWeatherMap API (depending on the configured API endpoint).
 
-<div align="center">
-  <!-- Apne project ka screenshot lene ke baad image path yahan replace karein -->
- 
-</div>
-<img width="1363" height="596" alt="image" src="https://github.com/user-attachments/assets/8bb86a74-1905-4481-8d7e-fc044345884a" />
+## Run locally
+1. Clone this repository.
+2. Check the JavaScript file for the expected API endpoint and key configuration.
+3. Open `index.html` using a local server if the browser blocks requests or modules.
+4. Keep API keys private where possible; never commit a paid or secret key.
 
-
-*Note: Apne app ki actual screenshot lene ke baad use repository me upload karein aur upar di gayi image path ko update kar dein.*
-
----
-
-## ✨ Features
-
-- 🔍 **Search by City:** Search weather conditions for any city globally.
-- 🌡️ **Real-Time Data:** Live temperature, feels-like temperature, and weather descriptions.
-- 💨 **Weather Metrics:** Humidity, wind speed, atmospheric pressure, and visibility.
-- 📱 **Fully Responsive UI:** Clean UX optimized for desktop, tablet, and mobile screens.
-- 🎨 **Modern Design:** Minimalist layout with clear visual indicators and weather icons.
-
----
-
-## 🛠️ Tech Stack
-
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+)
-- **API:** OpenWeatherMap API (or custom backend)
-- **Icons:** FontAwesome / Material Icons
-
----
-
-## 🚀 Getting Started
-
-Follow these simple steps to run this project locally on your machine:
-
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/Hafiz-arman-sheikh/Weather.git](https://github.com/Hafiz-arman-sheikh/Weather.git)
+## Repository
+https://github.com/Hafiz-arman-sheikh/Weather
